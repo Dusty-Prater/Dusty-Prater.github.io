@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:
   - {title: Mail, icon: envelope, url: "mailto:dprater6@vols.utk.edu"}
-  - {title: Bluesky, icon: bluesky, url: "https://bsky.app/profile/dusty-prater.bsky.social"}
+  - {title: Bluesky, icon: 🌍, url: "https://bsky.app/profile/dusty-prater.bsky.social"}
 
 
 
